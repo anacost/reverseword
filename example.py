@@ -57,6 +57,8 @@ def test_get_word_lengths():
 
 def obscure_function():
     """
+
+
     Example of a function that is never tested.
     """
     do_something_strange()
